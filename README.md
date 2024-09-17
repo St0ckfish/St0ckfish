@@ -1,19 +1,10 @@
-## Hi there 👋
-
-<!--
-**M0staphaTaha/M0staphaTaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+🔭 I’m currently working on (Education Project]<br>🌱 I’m currently learning (Every this About Web Development)<br>💬 Ask me about (NextJS - ReactJS - TypeScript - Tailwind)
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="center">
 <picture>
   <!-- Light mode snake SVG -->
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/M0staphaTaha/M0staphaTaha/blob/output/github-contribution-grid-snake.svg">
@@ -24,4 +15,30 @@ Here are some ideas to get you started:
   <!-- Fallback (default to light mode if no media query match) -->
   <img alt="GitHub Contribution Snake" src="https://github.com/M0staphaTaha/M0staphaTaha/blob/output/github-contribution-grid-snake.svg">
 </picture>
+
+[![](https://visitcount.itsvg.in/api?id=M0staphaTaha&icon=6&color=1)](https://visitcount.itsvg.in)
+</div>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009001212190) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/mostapha-taha-106018239/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/m0stapha_) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M0staphaTaha&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=M0staphaTaha&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=M0staphaTaha&theme=transparent&hide_border=true)
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=M0staphaTaha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
