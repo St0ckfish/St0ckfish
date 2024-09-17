@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake gif](https://github.com/M0staphaTaha/M0staphaTaha/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/M0staphaTaha/M0staphaTaha/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <!-- Light mode snake SVG -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/M0staphaTaha/M0staphaTaha/blob/output/github-contribution-grid-snake.svg">
+  
+  <!-- Dark mode snake SVG -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/M0staphaTaha/M0staphaTaha/blob/output/github-contribution-grid-snake-dark.svg">
+
+  <!-- Fallback (default to light mode if no media query match) -->
+  <img alt="GitHub Contribution Snake" src="https://github.com/M0staphaTaha/M0staphaTaha/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
