@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Articles](https://www.linkedin.com/in/mostapha-taha/recent-activity/all/)
 
-- 💬 Ask me about **reactJS, NextJS, TypeScript, JavaScript, Tailwind**
+- 💬 Ask me about **ReactJS, NextJS, TypeScript, JavaScript, Tailwind**
 
 - 📫 How to reach me **m0stapha1@hotmail.com**
 
