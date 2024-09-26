@@ -19,7 +19,7 @@
 <br/>
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=24&duration=3000&pause=1000&color=006aff&center=true&vCenter=true&width=714&lines=Hi+%F0%9F%91%8B%2C+I'm+Mostapha+Taha;A++passionate+Frontend+Developer+from+Egypt+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=24&duration=3000&pause=1000&color=006aff&center=true&vCenter=true&width=714&lines=Hi+%F0%9F%91%8B%2C+I'm+Mostapha+Taha;A++passionate+MERN+Stack+Developer+from+Egypt+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 </div>
 <div align="center">
 <picture>
