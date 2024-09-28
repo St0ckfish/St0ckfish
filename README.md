@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **Education Platform**
 
-- 🌱 I’m currently learning **Every thing about frontend**
+- 🌱 I’m currently reading **Foundations of Scalable Systems** 📖
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mostapha-taha.vercel.app/)
 
