@@ -17,6 +17,8 @@
 - 📄 Know about my experiences [CV](https://flowcv.com/resume/tuqcpijwb6)
 <br/>
 <br/>
+Creator of stockfish-components — a lightweight, reusable React component library built with TypeScript and Tailwind CSS.
+<br/>
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=24&duration=3000&pause=1000&color=006aff&center=true&vCenter=true&width=714&lines=Hi+%F0%9F%91%8B%2C+I'm+Mostapha+Taha;A++passionate+MERN+Stack+Developer+from+Egypt+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
