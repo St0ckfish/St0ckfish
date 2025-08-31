@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **m0stapha1@hotmail.com**
 
-- 📄 Know about my experiences [CV](https://flowcv.com/resume/tuqcpijwb6)
+- 📄 Know about my experiences [CV](https://mostapha-taha.vercel.app/Mostapha_Taha.pdf)
 <br/>
 <br/>
 Creator of stockfish-components — a lightweight, reusable React component library built with TypeScript and Tailwind CSS.
