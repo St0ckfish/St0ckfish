@@ -1,31 +1,26 @@
 name: generate animations
 on:
-  # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *"
-  
-  # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the output branch
   push:
     branches:
-      - output
+      - main
 
 jobs:
   generate:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     
     steps:
-      # Checkout the repository
+      # Checkout
       - name: Checkout repository
         uses: actions/checkout@v3
       
-      # Generate snake animation
-      - name: Generate github-contribution-grid-snake.svg
+      # Generate Snake
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: St0ckfish
@@ -33,14 +28,22 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       
-      # Generate Pac-Man animation
-      - name: Generate Pac-Man contribution graph
+      # Generate Pac-Man - بدون أي with parameters
+      - name: Generate Pac-Man animation
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: St0ckfish
-          
-      # Push the content to the output branch
-      - name: Push generated animations to the output branch
+      
+      # تأكد من وجود الملفات وطبع محتويات dist
+      - name: List files in dist
+        run: |
+          echo "Files in dist folder:"
+          ls -la dist/
+          echo "Files in current directory:"
+          ls -la
+      
+      # Push للـ output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
