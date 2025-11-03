@@ -45,9 +45,9 @@
 
 📫 Reach me: **m0stapha1@hotmail.com**
 
-📄 [Download My CV](https://mostapha-taha.vercel.app/Mostapha_Taha.pdf)
+🚀 Creator of [stockfish-components](https://www.npmjs.com/package/stockfish-components)
 
-🚀 Creator of [stockfish-components](https://www.npmjs.com/package/stockfish-components) — A lightweight React component library
+📄 [Download My CV](https://mostapha-taha.vercel.app/Mostapha_Taha.pdf)
 
 <br clear="both"/>
 
